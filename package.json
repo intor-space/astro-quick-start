@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "astro": "^5.17.1",
-    "intor": "^2.4.8"
+    "intor": "^2.5.0"
   },
   "devDependencies": {
     "prettier": "3.8.1",
